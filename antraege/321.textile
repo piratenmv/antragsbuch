@@ -1,0 +1,18 @@
+h1. Antrag
+
+Der Landesverband möge beschließen, das Wort „Landesparteitag“ in der Satzung durch „Landesmitgliederversammlung“ zu ersetzen.
+
+h1. Begründung
+
+Obwohl „Parteitag“ allgemein ein satzungsmäßiges Treffen einer Partei beschreibt, bemerkt "Wikipedia":http://de.wikipedia.org/wiki/Parteitag: _„Auf den meisten Parteitagen sind nicht alle Parteimitglieder, sondern aus organisatorischen Gründen nur eine festgelegte Anzahl von Delegierten anwesend.“_ Die Piratenpartei setzt kein Delegiertensystem ein. Dies ist einzigartig in der deutschen Parteienlandschaft. Durch die Bezeichnung „Mitgliederversammlung“ kann diese besondere Natur unterstrichen werden. Die "Satzung des Berliner Landesverbandes":http://wiki.piratenpartei.de/BE:Satzung folgt diesem Beispiel.
+
+Natürlich ist ein Name nur ein Name und die Presse mag noch immer von „Landesparteitag“ und „Delegierten“ sprechen, jedoch sollten wir uns der besonderen Situation bewusst sein und uns klar machen, dass es sich um eine Versammlung der Mitglieder handelt.
+
+h1. Anmerkung
+
+Betroffen wären in der "aktuellen Satzung":http://vorstand.piratenpartei-mv.de/dokumente/satzung/:
+
+* § 9, Absatz 1
+* § 9a Absatz 3, 6, 9, 10, 11
+* § 9b Absatz 1, 2, 3, 4, 5, 6, 7 sowie der Titel
+* § 11 Absatz 1, 2, 3

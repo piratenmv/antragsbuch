@@ -1,0 +1,19 @@
+h1. Antrag
+
+h2. Grundrecht auf Internetzugang
+
+Die Piratenpartei Mecklenburg-Vorpommern treten für das Grundrecht auf einen diskriminierungsfreien Internetzugang (Breitband) ein. Das Internet hat im privaten und beruflichen Leben den gleichen Stellenwert wie einst Telefon, Rundfunk und Fernsehen eingenommen und ist aus dem täglichen Leben nicht mehr wegzudenken. Die Anbindung über Funktechnologie kann nur eine Überbrückung darstellen. Grundsätzlich hat die Anbindung kabelgebunden zu erfolgen - da wo es technisch möglich ist, über Glasfaser.
+
+h1. Begründung
+
+Der Zugang zu freier Information und zur freien Kommunikation ist genauso ein Grundrecht, wie das Recht auf freie Meinungsäußerung. Bürger, die diesen Zugang nicht haben oder nutzen können, sehen sich einer zunehmenden digitalen Barriere ausgesetzt und können sich außerdem nicht aus allgemein verfügbaren Quellen informieren. Insbesondere in Gebieten mit ländlicher Struktur ist ein Ausgleich der Informations- und Kommunikationsdefizite nur noch durch den Internetzugang möglich. Da das Kommunikations- und Datenvolumenaufkommen bereits derzeit immens ist (zum Beispiel E-Mails, Webseiten, Voice over IP, Video on demand), muss ebenfalls eine angemessene Minimalbandbreite gewährleistet werden, die mit der technischen Entwicklung angepasst werden muss.
+
+Auch die Behörden führen zunehmend Onlineangebote ein, um die Defizite durch die ausgedünnte Struktur auszugleichen. Der Bürger ist daher auf die Nutzung des Internets angewiesen, um seinen Verpflichtungen nachzukommen. Die Schließung von Gemeinschaftseinrichtungen - wie Schulen, Bibliotheken und Treffpunkten - aus angeblichen Kostengründen haben zu einer erheblichen Erosion der ländlichen Gebiete geführt. Schulen, die immer weiter vom Wohnort entfernt sind, erwarten von den Schülern, dass sie einen umfangreichen Zugang zu Quellen haben, um gestellte Aufgaben auch umsetzen zu können.
+
+Die schlechte Bereitstellung des ÖPNV trägt ebenfalls dazu bei, dass insbesondere junge Menschen kaum noch öffentliche Angebote nutzen oder sich mit anderen treffen können. Das Internet stellt hier keinen gleichwertigen Ersatz dar, kann aber zumindest als Brücke dienen. Die fehlende Anbindung an ein leistungsfähiges Breitbandnetz ist auch für klein- und mittlere Unternehmen Grundvoraussetzung für den Betrieb eines Gewerbes, da die Datenübermittlung an Behörden und Sozialversicherungsträger in der Regel nur noch online möglich ist. Betriebe sind ohne garantierten Breitbandanschluss nicht arbeitsfähig. Eine Ansiedlung auch in ländlichen Gebieten ist daher nahezu ausgeschlossen.
+
+Das Kostenargument ist lediglich ein Scheinargument gegen das Grundrecht auf Internetzugang: Strom-, Telefon-, Gas- und Frischwassernetze wurden aus dem Aspekt der Grundversorgung bereits gelegt. Der Wettbewerb findet nicht durch die Netze an sich statt. Der Wettbewerb findet über die Diensteanbieter statt, denen ihrerseits ein diskriminierungsfreien Zugang gewährleistet werden muss.
+
+h1. Anmerkung
+
+Der Antrag wurde aus dem Antragsbuch des LPT 2012.1 aus Brandenburg (Antrag "WP087":http://wiki.piratenbrandenburg.de/Antragsfabrik/Grundrecht_auf_Internetzugang) übergenommen. Dort wurde der Antrag angenommen.

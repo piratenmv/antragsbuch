@@ -1,0 +1,89 @@
+h1. Antrag
+
+1. Paragraph 9 b der Satzung ist wie folgt zu ersetzen:
+
+----
+
+h2. § 9b - Die Landesmitgliederversammlung
+
+(1) Die Landesmitgliederversammlung ist die Mitgliederversammlung auf Landesebene.
+
+(2) Die Landesmitgliederversammlung tagt mindestens einmal jährlich als Realversammlung. Die Einberufung erfolgt aufgrund Vorstandsbeschluss. Der Vorstand lädt jedes Mitglied persönlich mindestens vier Wochen vor dem Landesparteitag in Textform (vorrangig per E-Mail, nachrangig per Brief) ein. Die Einladung hat Angaben zum Tagungsort, Tagungsbeginn, vorläufiger Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens eine Woche vor der Landesmitgliederversammlung sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
+
+(3) Eine außerordentliche Landesmitgliederversammlung wird unverzüglich einberufen, wenn mindestens eins der folgenden Ereignisse eintritt:
+
+1. Der Vorstand ist handlungsunfähig.
+2. Ein Zehntel der stimmberechtigten Piraten des Landesverbandes Mecklenburg-Vorpommern beantragt es.
+3. Der Landesvorstand beschließt es mit einer Zweidrittelmehrheit.
+
+Es ist ein Grund für die Einberufung zu benennen. Die außerordentliche Landesmitgliederversammlung darf sich nur mit dem benannten Grund der Einberufung befassen. In dringenden Fällen kann mit einer verkürzten Frist von mindestens zwei Wochen eingeladen werden.
+
+(4) Die Landesmitgliederversammlung nimmt den Tätigkeitsbericht des Vorstandes entgegen und entscheidet daraufhin über seine Entlastung.
+
+(5) Über die Landesmitgliederversammlung, deren Beschlüsse und Wahlen wird ein Ergebnisprotokoll gefertigt, das von der Protokollführung, der Versammlungsleitung und der Wahlleitung unterschrieben und anschließend veröffentlicht wird.
+
+(6) Die Landesmitgliederversammlung wählt mindestens zwei Rechnungsprüfer, die den finanziellen Teil des Tätigkeitsberichtes des Vorstandes vor der Beschlussfassung über ihn prüfen. Das Ergebnis der Prüfung wird der Landesmitgliederversammlung verkündet und zu Protokoll genommen. Danach sind die Rechnungsprüfer aus ihrer Funktion entlassen.
+
+(7) Die Landesmitgliederversammlung wählt mindestens zwei Kassenprüfer. Diesen obliegen die Vorprüfung des finanziellen Tätigkeitsberichtes für die folgende Landesmitgliederversammlung und die Vorprüfung, ob die Finanzordnung und das Parteiengesetz eingehalten wird. Sie haben das Recht, Einsicht in alle finanzrelevanten Unterlagen zu verlangen und auf Wunsch Kopien persönlich ausgehändigt zu bekommen. Sie sind angehalten, etwa zwei Wochen vor der Landesmitgliederversammlung die letzte Vorprüfung der Finanzen durchzuführen. Ihre Amtszeit endet durch Austritt, Rücktritt, Entlassung durch die Landesmitgliederversammlung oder mit Wahl ihrer Nachfolger.
+
+(8) Die Landesmitgliederversammlung tagt daneben online und nach den Prinzipien von Liquid Democracy (§ 14) als Ständige Mitgliederversammlung. Jeder Pirat im Landesverband Mecklenburg-Vorpommern hat das Recht, an der Ständigen Mitgliederversammlung teilzunehmen. Das Stimmrecht richtet sich nach § 4 Abs. 4 der Bundessatzung.
+
+(9) Die Ständige Mitgliederversammlung kann für den Landesverband verbindliche Stellungnahmen und Positionspapiere beschließen. Entscheidungen über die Parteiprogramme, die Satzung, die Beitragsordnung, die Schiedsgerichtsordnung, die Auflösung sowie die Verschmelzung mit anderen Parteien (§ 9 Abs. 3 Parteiengesetz) sind ausgeschlossen, insoweit kann die Ständige Mitgliederversammlung nur Empfehlungen abgeben.
+
+(10) Die Landesmitgliederversammlung beschließt die Geschäftsordnung der Ständigen Mitgliederversammlung, in der auch die Konstituierung der Ständigen Mitgliederversammlung geregelt ist.
+
+----
+
+2. In folgenden Paragraphen ist die Namensänderung von "Landesparteitag" zu "Landesmitgliederversammlung" einzupflegen:
+
+* § 9
+* § 9a Abs. 3
+* § 9a Abs. 6
+* $ 9a Abs. 9
+* § 9a Abs. 10
+* § 9a Abs. 11
+* § 11 Abs. 1
+* § 11 Abs. 2
+* § 11 Abs. 3
+
+3. Folgender Paragraph 14 wird neu eingefügt:
+
+----
+
+h2. § 14 - Liquid Democracy
+
+(1) Alle stimmberechtigten Versammlungsmitglieder sind im eingesetzten Liquid Democracy System gleich. Auf die Priviligierung Einzelner (z.B. zur Moderation des Diskurses) wird vollständig verzichtet.
+
+(2) Alle Versammlungsmitglieder haben die Möglichkeit, selbständig Anträge ins Liquid Democracy System zu stellen. Zulassungsquoren und Antragskontingente sind zulässig, aber für alle gleich. Eingebrachte Anträge können nicht gegen den Willen der Antragsteller von anderen verändert oder gelöscht werden. Stattdessen hat jedes Versammlungsmitglied die Möglichkeit, innerhalb eines bestimmten Zeitraums Alternativanträge einzubringen.
+
+(3) Das eingesetzte Abstimmungsverfahren darf Anträge, zu denen es ähnliche Alternativanträge gibt, nicht prinzipbedingt bevorzugen oder benachteiligen. Es ist möglich, mehreren konkurrierenden Anträgen gleichzeitig zuzustimmen. Der Einsatz eines Präferenzwahlverfahrens ist hierbei zulässig.
+
+(4) Jedes stimmberechtigte Versammlungsmitglied kann ein anderes stimmberechtigtes Mitglied bis auf Widerruf als Vertretung benennen. Die Vertretung übernimmt dabei alle Rechte und Stimmgewichte, von denen das Mitglied nicht selbst Gebrauch macht (auch solche die es in Vertretung anderer verwendet). Es ist möglich, für verschiedene Themen, Themenbereiche oder Gliederungsebenen verschiedene Vertretungen zu bestimmen.
+
+(5) Jedem stimmberechtigten Versammlungsmitglied ist Einsicht in den abstimmungsrelevanten Datenbestand des Liquid Democracy Systems zu gewähren. Während einer laufenden Abstimmung darf der Zugriff auf die entsprechenden Abstimmdaten anderer Mitglieder vorübergehend gesperrt werden.
+
+(6) Der Vorstand stellt den dauerhaften und ordnungsgemäßen Betrieb des Liquid Democracy Systems sicher.
+
+----
+
+h1. Begründung
+
+Momentan kann nur der Landesparteitag offizielle Aussagen oder Positionspapiere verabschieden. Zwischen den Landesparteitagen ist dies jedoch nicht möglich: Der Landesvorstand "arbeitet nicht inhaltlich":http://vorstand.piratenpartei-mv.de/2012/04/uber-das-selbstverstandnis-des-vorstandes-zu-politischen-entscheidungen. Auch Liquid Feedback kann derzeit nur Meinungsbilder einholen, jedoch keine Beschlüsse fassen. Daher soll mit der Ständigen Mitgliederversammlung die Möglichkeit geschaffen werden, Parteitage ständig und online nach den Prinzipien der Liquid Democracy durchzuführen.
+
+In einem Flächenland wie Mecklenburg-Vorpommern mit wenig Mitgliedern ist es aufwändig, Parteitage zu organisieren. Dennoch ist es immer wieder auch zwischen den Parteitagen wichtig, inhaltliche Fragen zu klären und Positionspapiere zu erarbeiten. Mit der Ständigen Mitgliederversammlung ist es möglich, dies offiziell zu tun und so die "realen" Mitgliederversammlungen zu entlasten und dort "nur" noch zu wählen und Satzungs- und Programmpunkte abzustimmen.
+
+Die Erfahrung im Landtagswahlkampf 2011 hat weiterhin gezeigt, dass kurz vor der Wahl viele inhaltliche Fragen (z.B. Wahlprüfsteine) beantwortet werden müssen. Eine arbeitende ständige Mitgliederversammlung könnte den Bundestagswahlkampf so enorm erleichtern.
+
+Weiterhin ist Liquid Democracy und Liquid Feedback ein (wenn nicht: _das_) Alleinstellungsmerkmal der Piratenpartei. Es ist reale Basisdemokratie. Die ständige Mitgliederversammlung befördert es endlich zu einem Organ des Landesverbandes, das offizielle Aussagen treffen kann.
+
+Trotzdem es natürlich Probleme gibt, alle Mitgliedern in die Arbeit mit Liquid Feedback einzuführen, kann dies an den immer mehr werdenden Stammtischen geleistet werden. Eine Alternative dazu wäre die Teilnahme an einer realen Mitgliederversammlung, die mit höheren Kosten verbunden wäre. Weiterhin erlaubt die ständige Mitgliederversammlung, in bestimmten Bereichen seine Stimme zu delegieren - dies ist bei der Abwesenheit bei einem Parteitag nicht möglich.
+
+Die genaue Arbeit der Ständigen Mitgliederversammlung soll auf einem weiteren Landesparteitag zu beschließenden Geschäftsordnung geregelt werden. Erst dadurch wird die Ständige Mitgliederversammlung konstituiert.
+
+h1. Anmerkungen
+
+* Die im "Pad":http://ipir.at/smvmv und in den "Folien":https://speakerdeck.com/u/piratenmv/p/die-standige-mitgliederversammlung beschriebene Einführung der Ständigen Mitgliederversammlung als neues Organ wurde wegen Regelungen im Parteiengesetz, wonach die Mitglieder dann in geheimer Wahl auf einem Landesparteitag gewählt werden sollten, verworfen. Stattdessen wurde sie als reguläre Mitgliedersammlung im Sinne von § 9 Absatz 1 Satz 1 PartG errichtet.
+* Die Durchführung einer Mitgliederversammlung online dürfte auch zulässig sein, so jedenfalls der "Wissenschaftliche Dienst des Deutschen Bundestages":http://www.volkerbeck.de/cms/files/327-11-a.pdf
+* Der Text zu § 14 wurde aus der "Initiative":http://pplf.de/i2557 übernommen, allerdings ohne Absatz 5 und 6, die das Verfallen von Delegationen auf den Tag genau regelt. Dies sollte nicht Teil der Satzung sein. Absatz 7 wurde im Antrag in Absatz 5 umbenannt.
+* Neu hinzugefügt wurde Absatz 6, der den Betrieb durch den Vorstand regelt. Dies wurde aus dem "Antrag 221":https://redmine.piratenpartei-mv.de/issues/221 übernommen.
+* Die Grundprinzipien aus "Antrag 221":https://redmine.piratenpartei-mv.de/issues/221 wurden übernommen. Absatz 4 und 5 wurden nicht übernommen, da sie nicht bindend wären.

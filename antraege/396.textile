@@ -1,0 +1,23 @@
+h1. Antrag
+
+In der Satzung wird folgender Absatz mit der nächst höheren freien Absatznummer des § 9b eingefügt:
+
+bq. Die Entscheidungen des Landesparteitags werden mit einfacher Mehrheit der abgegebenen gültigen Stimmen beschlossen. Bei Stimmengleichheit gilt ein Antrag als abgelehnt. Stimmenthaltungen werden als ungültige Stimmen gewertet.
+
+Des weiteren wird beantragt, in § 11 Absatz 1 in den Satz 1 nach dem Wort „Zweidrittelmehrheit“ folgende Worte einzufügen:
+
+bq. der abgegebenen gültigen Stimmen
+
+h1. Begründung
+
+Im Prinzip ist keine Änderung nötig, da die "Rechtsprechung":http://wiki.piratenpartei.de/Antragsfabrik/Beschlussfassung_2.0#Rechtsprechung durch den Bundesgerichtshof dies klar gestellt hat, allerdings gab es vor dem Bundesschiedsgericht eine "Klage":http://wiki.piratenpartei.de/images/5/5f/BSG_Urteil_BSG_2008-05-18_1.pdf und der BGH empfiehlt eine Regelung zur Klarstellung in der Satzung
+
+Damit keine Missverständnisse aufkommen:
+
+* hiermit werden Enthaltungen nicht ungültig, sondern werden bei einer Zählung / Berechnung ebenso wie ungültige Stimmen behandelt und haben keine Auswirkung auf das Ergebnis
+* allgemeine Abstimmungen werden mit mehr als 50% Ja-Stimmen entschieden
+* für die Sonderfälle SÄA und PÄA sind 2/3 nötig
+
+h1. Anmerkung
+
+* Ein sehr ähnlicher "Antrag":http://wiki.piratenpartei.de/Bundesparteitag_2012.1/Antragsportal/Satzungsänderungsantrag_-_006 wurde auf dem Bundesparteitag in Neumünster angenommen. Eine Klärung ist auch auf Landesebene wünschenswert.
