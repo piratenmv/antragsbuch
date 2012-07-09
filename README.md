@@ -18,8 +18,8 @@ Aktualisieren
 
 Das Abfragen der Anträge kann mit
 
-  cd antraege
-  ./getantraege.py
+    cd antraege
+    ./getantraege.py
 
 gestartet werden. Wenn ein neues Antragsbuch erstellt werden soll, müssen alle Dateien bis auf `getantraege.py` aus dem Verzeichnis `antraege` gelöscht werden.
 
