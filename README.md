@@ -4,7 +4,7 @@ Antragsbuch für Mitgliederversammlungen
 Was ist das hier?
 -----------------
 
-Für den Landesparteitag 2012.1 des Landesverbandes Mecklenburg-Vorpommern der Piratenpartei (http://wiki.piratenpartei.de/MV:Landesparteitag/1.2012) haben wir ein Antragsbuch (Datei `antragsbuch.pdf`) automatisch aus den erzeugten Anträgen erzeugt.
+Ab der Landesmitgliederversammlung 2012.2 des Landesverbandes Mecklenburg-Vorpommern der Piratenpartei (http://wiki.piratenpartei.de/MV:Landesmitgliederversammlung_2012.2) haben wir  Antragsbücher (Datei `antragsbuch.pdf`) automatisch aus den erzeugten Anträgen erzeugt.
 
 Erzeugen eines Dokumentes
 -------------------------
