@@ -1,0 +1,7 @@
+h1. Antrag
+
+9b Absatz 8 Satz 3 der Landessatzung wird wie folgt gefasst: »Die Stimmberechtigung in der Ständigen Mitgliederversammlung richtet sich nach § 4 Absatz 4 Satz 1 der Bundessatzung.«
+
+h1. Begründung
+
+Damit lösen wir für die Ständige Mitgliederversammlung das Problem der fehlenden Stimmberechtigung am Jahresanfang, wenn noch nicht alle Beiträge bezahlt sind. Eine dreimonatige Karenzzeit vermindert auch den Verwaltungsaufwand für den Vorstand, der ansonsten am 1. Januar eine Menge Piraten auf nicht-stimmberechtigt setzen und das nach ein paar Tagen oder Wochen rückgängig machen müsste.

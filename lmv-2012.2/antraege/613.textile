@@ -1,0 +1,137 @@
+h1. Antrag
+
+Die Landesmitgliederversammlung beschließt zur Eröffnung der Ständigen Mitgliederversammlung die untenstehenden Satzungsänderungen und die untenstehende Geschäftsordnung.
+
+h2. Geschäftsordnung
+
+h3. § 1 Aufgaben
+
+(1) Die Ständige Mitgliederversammlung ist eine Onlinetagung der Landesmitgliederversammlung nach den Prinzipien von Liquid Democracy.
+
+(2) Die Ständige Mitgliederversammlung beschließt für den Landesverband verbindliche Stellungnahmen und Positionspapiere (§ 5 Absatz 1 Buchstabe a). Sie kann zu den Programmen, der Satzung, der Beitragsordnung, der Schiedsgerichtsordnung und zur Auflösung und Verschmelzung des Landesverbands Empfehlungen abgeben.
+
+h3. § 2 Akkreditierung und Konstituierung
+
+(1) Jedes Mitglied des Landesverbandes hat das Recht, als Mitglied der Ständigen Mitgliederversammlung akkreditiert zu werden.
+
+(2) Die Akkreditierung erfolgt durch den Landesvorstand. Dieser kann Piraten des Landesverbands mit der Akkreditierung beauftragen.
+
+(3) Akkreditiert wird durch persönliches Erscheinen und Vorlage eines gültigen Lichtbildausweises oder im Postident-Verfahren. Jedes stimmberechtigte Mitglied des Landesverbandes kann verlangen, innerhalb von zwei Wochen in der Landesgeschäftsstelle akkreditiert zu werden.
+
+(4) Bei der Akkreditierung werden folgenden Daten erhoben:
+
+a) die Mitgliedsnummer,
+b) die Zugehörigkeit zur niedrigsten Gliederung der Piratenpartei Deutschland,
+c) der bürgerliche Name gemäß Lichtbildausweis,
+d) der Ort und die Zeit der Akkreditierung,
+e) der Name der Person, die die Akkreditierung hat.
+
+(5) Die Akkreditierung wird durch den Landesvorstand aufgehoben, wenn
+
+a) das Mitglied es persönlich (Absatz 2) verlangt oder
+b) das Mitglied seine Mitgliedschaft in der Piratenpartei Deutschland oder im Landesverband verliert.
+
+(6) Der Landesvorstand eröffnet die Ständige Mitgliederversammlung zu einem bestimmten Zeitpunkt, dabei gilt die Form des § 9b Absatz 2 Satz 3 der Satzung. Die Einladung zur Ständigen Mitgliederversammlung muss einen Hinweis auf die Akkreditierungsmöglichkeit enthalten. Zum Zeitpunkt der Eröffnung der Ständigen Mitgliederversammlung müssen folgende Voraussetzungen erfüllt sein:
+
+a) spätestens vier Wochen vor Eröffnung der Ständigen Landesmitgliederversammlung müssen in Schwerin, Rostock, Stralsund, Greifswald und Neubrandenburg Veranstaltungen zur Akkreditierung stattfinden, die zuvor öffentlich bekannt zu geben sind und
+b) es sind mindestens 50 Piraten akkreditiert.
+
+h3. § 3 Themenbereiche und Delegation
+
+(1) Es werden folgende Themenbereiche eingerichtet:
+
+a) Innenpolitik und Recht
+b) Bildung, Wissenschaft und Kultur
+c) Arbeit, Gesundheit und Soziales
+d) Energie, Infrastruktur und Landesentwicklung
+e) Landwirtschaft, Umwelt und Verbraucherschutz
+f) Wirtschaft, Finanzen und Haushalt
+g) Sonstige politische Themen
+h) Satzung und Parteistruktur
+i) Sonstige innerparteiliche Fragen
+j) Geschäftsordnung und Liquid Democracy Systembetrieb
+k) Sandkasten/Spielwiese
+
+(2) Jedes stimmberechtigte Mitglied der Ständigen Mitgliederversammlung hat das Recht, sein Stimmengewicht jederzeit widerruflich für ein Thema, einen Themenbereich oder die gesamte Versammlung auf ein anderes Mitglied zu übertragen (Delegation). Der Delegierte darf das Stimmengewicht weiterübertragen. Die Delegationen verfallen, wenn das delegierende oder das delegierte Mitglied länger als 180 Tage nicht am System angemeldet war, sein Stimmrecht verliert oder seine Akkreditierung aufgehoben wird.
+
+h3. § 4 Antrags- und Rederechte
+
+(1) Alle Versammlungsmitglieder sind berechtigt, Anträge und Alternativanträge an die Versammlung zu stellen. Stimmberechtigte Mitglieder können sich zudem für Themengebiete als Interessenten eintragen und Anträge unterstützen.
+
+(2) Das Rederecht aller Mitglieder des Landesverbands wird außerhalb des von der Ständigen Mitgliederversammlung verwendeten Systems realisiert.
+
+h3. § 5 Regelwerke
+
+(1) Es werden folgende Regelwerke anlegt:
+
+a) SMV-Stellungnahme/Positionspapier
+b) SMV-Geschäftsordnungsänderung 
+c) Satzungsänderungsantrag
+d) Programmantrag
+e) Meinungsbild
+f) Schnellverfahren
+
+(2) Alle gestellten Anträge erreichen zunächst die Phase »Neu«. Diese Phase dauert längstens acht Tage, bei Schnellverfahren 30 Stunden. Wird der Antrag innerhalb dieser Zeit nicht mit einem Stimmengewicht unterstützt, das mindestens zehn Prozent der an dem Themengebiet interessierten Mitglieder entspricht (Quorum), ist er abgelehnt.
+
+(3) Erreicht der Antrag das Quorum, beginnt die Phase »Diskussion«. Diese dauert 15 Tage, bei Schnellverfahren 30 Stunden. Bis zum Ablauf dieser Phase darf der Antragstext verändert werden.
+
+(4) Im Anschluss beginnt die Phase »Eingefroren«. Diese dauert acht Tage, bei Schnellverfahren 30 Stunden. Hat der Antrag nach Ablauf dieser Frist das Quorum nicht mehr erreicht, ist er abgelehnt.
+
+(5) Für Anträge, die das Quorum weiterhin erreicht haben, beginnt die Phase »Abstimmung«. Diese dauert acht Tage, bei Schnellverfahren 60 Stunden.
+
+(6) Nach der Abstimmung wird die Schulze-Methode (Anlage 1) auf alle zur Abstimmung zugelassenen Anträge angewendet. Dabei wird ein zusätzlicher virtueller Antrag »Status Quo« (Anlage 2) hinzugefügt. Bei jeder einzelnen Stimmabgabe werden alle Anträge, denen zugestimmt wird, dem Status Quo gegenüber vorgezogen; der Status Quo wiederum wird allen Anträgen, die abgelehnt werden, vorgezogen. Die Schulze-Methode erstellt aus den paarweisen Vergleichen eine Reihenfolge (»Schulze-Rang«) der zur Wahl stehenden Anträge.
+
+Ein Antrag ist angenommen, falls
+
+a) sein Schulze-Rang besser als der Status Quo ist,
+b) sein Schulze-Rang besser ist als der Schulze-Rang aller anderen Anträge und
+c) bei Satzungsänderungsanträgen und Programmanträgen die Anzahl der Zustimmungen mindestens doppelt so groß ist wie die Anzahl der Ablehnungen oder bei allen anderen Anträgen die Anzahl der Zustimmungen größer als die Anzahl der Ablehnungen ist.
+
+(7) Maßgeblich ist das Stimmrecht des Abstimmungsteilnehmers und der Delegierenden zum Ende der Abstimmungsphase.
+
+(8) Geheime Abstimmungen sind ausgeschlossen.
+
+h3. § 6 Datenschutz und Nachprüfung von Abstimmungen
+
+(1) Die Versammlungsmitglieder treten im System unter einem von ihnen gewählten Benutzernamen auf. Dieser kann ihr bürgerlicher Name oder ein Pseudonym sein. Tritt ein Versammlungsmitglied unter seinem bürgerlichen Namen auf, kann es verlangen, dass dieser Umstand im System gesondert gekennzeichnet wird (verifizierter Benutzername).
+
+(2) Mitgliedern der Ständigen Mitgliederversammlung werden nach Login Benutzernamen und Aktivitäten der anderen Mitglieder angezeigt. Während einer Abstimmung wird der Zugriff auf die Abstimmdaten anderer Mitglieder zu dieser Abstimmung gesperrt.
+
+(3) Jedes Versammlungsmitglied hat das Recht, die Gültigkeit einer bindenden Abstimmung festzustellen. Auf seinen Antrag, der keiner Begründung bedarf und binnen eines Monats nach Ende der Abstimmung zu stellen ist, lässt sich das Landesschiedsgericht vom Landesvorstand sämtliche Daten nach § 2 Absatz 4 zu allen Benutzern vorlegen, die an der Abstimmung, auch im Wege der Delegation, teilgenommen haben und überprüft deren Akkreditierung und Stimmberechtigung. Das Ergebnis der Überprüfung teilt das Landesschiedsgericht dem Antragsteller und dem Landesvorstand mit. Der Antragsteller kann innerhalb von zwei Monaten nach Eingang der Mitteilung das Ergebnis der Abstimmung beim Landesschiedsgericht anfechten. In diesem Verfahren ist ihm vom Landesvorstand zu allen Benutzern, die an der Abstimmung teilgenommen haben, Einblick in die Daten nach § 2 Absatz 4 und die die Akkreditierung und die Stimmberechtigung betreffenden Daten zu gewähren. Die Daten sind vom Antragsteller vertraulich zu behandeln. Allen Benutzern, deren Pseudonym in dieser Weise aufgelöst worden ist, wird vom Landesvorstand dieser Umstand und der bürgerliche Name des Antragstellers mitgeteilt.
+
+(4) Alle Daten sind zwölf Monate nach Ende der Abstimmung oder nach Ende der Akkreditierung dauerhaft in nicht rückverfolgbarer Weise von den personenbezogenen Daten zu trennen.
+
+h3. § 7 Veröffentlichung und Dokumentation
+
+Alle verbindlichen Stellungnahmen und Positionspapiere der Ständigen Mitgliederversammlung werden vom Landesvorstand veröffentlicht und dokumentiert. Der Landesvorstand dokumentiert auch alle Änderungen dieser Geschäftsordnung.
+
+h3. § 8 Systembetrieb
+
+(1) Für den Systembetrieb ist der Landesvorstand zuständig. Störungen im Systembetrieb sind dem Landesvorstand unverzüglich anzuzeigen.
+
+(2) Bei Störungen von mehr als zwölf Stunden werden laufende Fristen bis zur Behebung der Störungen unterbrochen.
+
+h3. § 9 Inkrafttreten und Änderungen
+
+Diese Geschäftsordnung tritt unmittelbar mit Beschlussfassung der Landesmitgliederversammlung in Kraft. Änderungen der Geschäftsordnungen beschließt die Ständige Mitgliederversammlung selbst (§ 5 Absatz 1 Buchstabe b) (*).
+
+h3. Anlage 1
+
+Die Schulze-Methode wird wie in Kapitel 2 des Beitrages von Markus Schulze (»A New Monotonic, Clone-Independent, Reversal Symmetric, and Condorcet-Consistent Single-Winner Election Method«, Entwurf vom 2. Juli 2012, erreichbar unter http://home.versanet.de/~chris1-schulze/schulze1.pdf ) beschrieben unter Anwendung des in Kapitel 6 beschriebenem Vergleichsoperators angewendet.
+
+h3. Anlage 2
+
+Das Verfahren des Satus-Quo-Antrags ist in »Preferential voting in LiquidFeedback« des Interaktive Demokratie e.V. Verein zur Förderung des Einsatzes elektronischer Medien für demokratische Prozesse beschrieben, erreichbar unter http://liquidfeedback.org/lqfb/preferential_voting/.
+
+
+h1. Begründung
+
+Die Initiative dient der Vorbereitung der Ständigen Mitgliederversammlung. Sie verfolgt folgende Ziele:
+
+* Die Teilnahme an der Ständigen Mitgliederversammlung ist unter Pseudonym möglich, die bindenden Abstimmungen sind trotzdem nachprüfbar.
+* Die erhobenen Daten werden nach Ablauf eines Jahres dauerhaft pseudonymisiert.
+* Es wird keine zusätzliche Verwaltungsebene aufgebaut, die Verwaltung erfolgt wie bei der Realversammlung durch den Vorstand.
+* Liquid Feeback wird gemäß § 9b Absatz 9 Satz 2 der Satzung in die Ständige Mitgliederversammlung integriert. Es gibt nur eine Instanz auf Landesebene.
+* Die Konstituierung der Ständigen Mitgliederversammlung erfolgt über einen Beschluss der Landesmitgliederversammlung. Sobald die Ständige Mitgliederversammlung eröffnet ist, kann sie ihre Geschäftsordnung selbst ändern und fortschreiben.
+* Das Stimmrecht in der Ständigen Mitgliederversammlung geht erst verloren, wenn drei Monate Beitragsrückstände bestehen. Die Versammlung kann damit auch am Jahresanfang arbeiten, obwohl noch nicht alle Mitgliedsbeiträge eingegangen sind.
+* Piraten ohne Stimmrecht können über einen entsprechenden Account Anträge stellen, aber nicht abstimmen oder das Quorum beeinflussen.

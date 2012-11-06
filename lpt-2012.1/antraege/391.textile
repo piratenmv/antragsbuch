@@ -1,0 +1,14 @@
+h1. Antrag
+
+Die PIRATEN Mecklenburg-Vorpommern setzen sich für die Einführung eines landesweiten GPS-Systems für alle Rettungsmittel in Mecklenburg-Vorpommern ein. Die Position der Rettungsmittel soll möglichst in Echtzeit an die jeweilige Leitstelle gesendet werden um dort der verbesserten Koordinierung der Rettungsmittel durch die Disponenten zu dienen.
+
+h1. Begründung
+
+Vom Eingang eines Hilfsrufs bis zum Eintreffen eines geeigneten Rettungsmittel darf im Jahresdurchschnitt nicht länger als 10 Minuten vergehen. Ein Zeitfenster, das gerade in einem Flächenland wie Mecklenburg-Vorpommern, nicht gerade leicht zum Einhalten ist. Besonders wichtig dabei ist, dass immer das nächstgelegene, freie und geeignete Rettungsmittel zum Einsatz kommt.
+Zurzeit funkt der Disponent einer Leitstelle, bei Eingang einer Meldung, alle in Betracht kommenden Rettungsmittel einzeln an, um die genau Position zu erhalten, die der jeweilige Beifahrer durch gibt. Dies kostet je nach Anzahl der auf Fahrt befindlichen Einheiten, einiges an Zeit. Würde die Position live im Managementprogramm erfasst, müsste nicht mehr Nachgefragt werden und die nächste freie und verfügbare Einheit könnte automatisch nach Eingabe des Unglücksorts ausgesucht werden.
+Des Weiteren könnten vom Disponenten in Echtzeit aktuelle Verkehrsinformationen an die Einheiten weiter geben werden. Sollte ein unerwarteter Stau, eine Baustelle oder ein Unfall vor dem Rettungsmittel gemeldet werden, könnte die Leitstelle eine alternative Route ausarbeiten und durchgeben. Vor allem wenn man bedenkt, das viele Fahrzeuge nicht mit einem Navigationsgerät ausgestattet sind und noch auf normales Kartenmaterial zurückgegriffen werden muss. Das würde auch die Einarbeitungszeit beim Wechsel der Dienststelle verringern und ein Rettungsdienstfahrer würde so leichter und schneller als vollwertige Kraft im neuen Bereich eingesetzt werden können.
+Zusammengefasst würde durch eine bessere, von außen unterstütze Zielführung der Rettungskräfte, die problemlose und schnellere Ankunft der Rettungsmittel am Einsatzort sicherstellt.
+
+h1. Hinweis
+
+Die grundlegende Idee stammt aus Punkt 3 des Positionspapiers des DRK-Landesverbandes Mecklenburg-Vorpommern e.V. vom Mai 2012. Dieser Antrag würde einen weiteren Schritt hin zur digitalen Unterstützung der Rettungskräfte machen, in einem Zeitalter, wo Navigation für den Normalbürger im Auto, auf dem Fahrrad oder zu Fuß fast schon zur Normalität wird.“

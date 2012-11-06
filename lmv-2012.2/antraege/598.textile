@@ -1,0 +1,23 @@
+h1. Antrag
+
+Die Landesmitgliederversammlung beschließt eine Änderung der "Reisekostenordnung Mecklenburg-Vorpommern" durch folgende Ergänzung:
+
+bq. "Es wird ein Punkt C eingefügt, alle weiteren Punkte rücken im Alphabet um eine Stelle auf:
+bq. 
+bq. Von bedürftigen Piraten, die dem Landesverband Mecklenburg-Vorpommern angehören und stimmberechtigt sind, können auf Antrag die Fahrtkosten zu Landesmitgliederversammlungen durch den Landesverband ganz oder teilweise übernommen werden. Der Vorstand muss dafür ein angemessenes Budget bestimmen.
+bq. 
+bq. Die beigefügten Erläuterungen und Entscheidungsgrundsätze für den Vorstand sowie der Punkt Finanzierung sind Bestandteil des Antrags und bilden die Grundlage für individuell zu entscheidende Anträge auf Reisekostenübernahme von Piraten des LV MV."
+
+h1. Erläuterung / Entscheidungsgrundsätze für den Vorstand
+
+Diese Regelung soll Piraten mit niedrigem finanziellem Spielraum ermöglichen, einen formlosen Antrag beim Vorstand einzureichen, um eine Teil- oder Vollerstattung der Fahrkosten zu beantragen. Dieser Antrag soll, angelehnt an den Prozess der Mitgliedsbeitragsminderungsanträge, durch den Vorstand entschieden werden. Der Antragsteller versichert durch die Stellung des Antrages, die genannte Erstattung für die Fahrtkosten zu benötigen und sich zu bemühen, die Reisekosten so gering wie möglich zu halten. Auf diese Bedingungen wird der Antragsteller durch ein Vorstandsmitglied bei der Mitteilung des Ergebnisses noch einmal explizit hingewiesen. Die Bedürftigkeit des Antragstellers muss nicht nachgewiesen werden. Der Pirat muss Mitglied des Landesverbandes MV sein. Dieser Antrag kann frühestens 21 Tagen und muss bis spätestens 3 Tage vor dem Antritt der Reise gestellt werden. Der Antrag muss die benötigte Summe für die Reise, sowie die Reiseart enthalten. Die Erstattung der Fahrkosten erfolgt zeitnah nach der LMV. Der Antragsteller muss einen Nachweis über die Höhe der Fahrtkosten erbringen. Der Antrag muss vertraulich behandelt und unter Ausschluss der Öffentlichkeit entschieden werden. Der Vorstand kann ggf. auf kostengünstigere Alternativen verweisen (z.B. Mitfahrgelegenheiten, Spartickets usw.).
+
+h2. Finanzierung
+
+Der Vorstand des Landesverbandes MV bestimmt ein Budget, von welchem die Erstattung erfolgt. Darüber hinaus können Anträge über einen Topf, welcher durch zusätzliche Spenden gefüllt wird, finanziert werden. Dieser wird voranging für die Finanzierung beansprucht. Sollte der Topf und das Budgeterschöpft sein, besteht die Möglichkeit sich mittels eines Antrages an den Vorstand zu wenden um ggfs. kann der Vorstand das Budget aufstocken. Diese Entscheidungen sind explizite Einzelfallentscheidungen und nicht auf andere Mitglieder des Landesverbandes übertragbar. Überschreitet die beantragte Summe aller Anträge 70% des Gesamtvolumen des Budgets, informiert der Schatzmeister des Landesverbandes MV über die Mailinglist bzw. das Syncforum.
+
+h2. Begründung
+
+Die Landesmitgliederversammlung ist das wichtigste Organ innerhalb des Landesverbandes MV, weil auf dieser administrative Weichen und wichtige Entscheidungen getroffen werden. Jedem Piraten sollte die Teilnahme möglich sein, auch um unserer Basisdemokratie ein breiteres Fundament zu geben. Um finanzielle Gründe als Ursache für ein Fernbleiben zu verhindern, sollten wir deshalb eine Härtefallregelung für die Erstattung von Fahrtkosten beschließen.
+
+Die vertrauensbasierte Antragsstellung und -abwicklung (es müssen keine Belege für die Bedürftigkeit vorgelegt werden) orientieren sich an der Verfahrensweise für den reduzierten Mitgliedsbeitrag bei der Piratenpartei und an der Grundidee des Bedingungslosen Grundeinkommens. Deshalb sollte die Antragstellung zur und die Übernahme der Fahrtkosten ohne Nachweispflicht und im Vertrauen darauf, dass nur bei tatsächlicher Bedürftigkeit ein Antrag gestellt wird, erfolgen.

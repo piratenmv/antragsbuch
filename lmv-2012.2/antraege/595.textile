@@ -1,0 +1,19 @@
+h1. Antrag
+
+Die PIRATEN Mecklenburg-Vorpommern setzt sich für die Abkehr von landesweit verschiedenen Ausstattungsrichtlinien für Rettungsdienstfahrzeuge (Krankentransportwagen, Rettungswagen, Notarztfahrzeuge, Rettungs- und Notarzteinsatzhubschrauber) der Kommunen, Hilfsorganisationen (DRK, JUH, ASB, MHD, DLRG) als auch der privatwirtschaftlichen Dienstleister und für die Einführung einer bundesweit einheitlichen standardisierten Ausstattungsrichtlinie ein. Eine regionale Erweiterung soll weiterhin möglich sein. Gleichermaßen soll eine Mindestausstattung an Medikamentengruppen und Wirkstoffen pro Rettungswagen festgelegt werden.
+
+h1. Begründung
+
+tl;dr: Das Ziel ist, einheitliche Mindestausstattungen zu definieren, die erstens eine hohe Qualität der Patientenversorgung garantieren, zweitens das Zusammenwirken unterschiedlicher Rettungsdienste in Mecklenburg-Vorpommern einfacher gestalten und drittens die Freizügigkeit sowohl von ausgebildeten Rettungskräften als auch von Notärzten verbessert.
+
+Die Träger des Rettungsdienstes in Mecklenburg-Vorpommern sind entweder Landkreise oder Kommunen oder private Unternehmen. Die Ausstattung erfolgt normalerweise anhand der DIN EN 1789, die europaweit verbindliche Rettungsdienstfahrzeuge klassifiziert und deren Ausstattung festlegt. Dies wird aber nicht überall umgesetzt, teilweise unterscheiden sich die Wagen in der technischen wie auch in der notfallmedikamentösen Ausstattung zwischen den Städten und Kommunen.
+
+Einige Rettungsdienstträger haben sich dazu entschieden keine oder nur sehr wenige Notfallmedikamente auf Rettungswagen vorzuhalten. Dies kann im Rahmen von Sekundärtransporten oder unerwarteten Notfällen ohne Notarztfahrzeug, zu erheblichen Versorgungsmissständen führen. Rettungswagen die im Rahmen von Sanitätsdiensten eingesetzt werden sind in vielen Fällen nicht einheitlich ausgestattet. Auch die Aufrüstung von Rettungsdienstfahrzeugen älterer Generationen, wird mit dem Schlagwort des Bestandschutzes langzeitig ausgesessen.
+
+Im Falle vom Zusammenwirken unterschiedlicher Gruppen im Rahmen von Großeinsätzen (MANV) oder der überörtlichen Hilfe, können ernsthafte Strukturdefizite in der Ausstattung zum Problem für den Patienten werden. So ist die Qualität der Versorgung von Notfallpatienten in vielen Fällen davon abhängig, in welchen Regionen man einen Notfall erleidet. Auch vor dem Hintergrund des Fachkräftemangels ist diese Standardisierung sinnvoll, da zunehmend Honorarkräfte als Notärzte eingesetzt werden, die z.T. sogar in anderen Bundesländern leben und arbeiten.
+
+Die PIRATEN Mecklenburg-Vorpommern setzt sich deswegen für eine bundesweit verpflichtenden einheitlichen Ausstattung, nach definierten Standards wie zB. der DIN EN 1789, von Rettungsmitteln ein. Dies beinhaltet die einheitliche Beschreibung der Gerätefähigkeiten, die klare Ausstattungsliste von medizinischem Kleinmaterial, als auch einer Wirkstofftabelle von Medikamenten die auf Rettungswagen als Mindestausstattung mit zu führen ist.
+
+h2. Hinweis
+
+Im Original ist dieser Antrag von Thomas Weijers für den AK Gesundheit NRW als Antrag WP026 zu finden und danach "für den LPT12.1":https://lqpp.de/mv/initiative/show/92.html von Klaus Klepik aus dem LV Mecklenburg-Vorpommern angepasst worden

@@ -1,0 +1,15 @@
+h1. Antragstext
+
+§8 wird von 
+
+bq. „Der Landesverband verpflichtet sich, den Regelungen des Bundessatzung bezüglich des Verhältnisses von Bundespartei und Landesverbänden Folge zu leisten und seine untergeordnete Gliederungen zu ebensolchem Verhalten anzuhalten.“ 
+ 
+zu
+ 
+bq. „Der Landesverband verpflichtet sich, den Regelungen der Bundessatzung bezüglich des Verhältnisses von Bundespartei und Landesverbänden Folge zu leisten und seine untergeordnete Gliederungen zu ebensolchem Verhalten anzuhalten.”
+ 
+geändert. (Austausch von "des" zu "der")
+
+h1. Begründung
+
+Grammatische Anpassungen ohne inhaltliche Änderung.
